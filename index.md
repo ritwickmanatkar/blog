@@ -21,10 +21,12 @@
         }
 </style>
 <div class="container">
+    <a href="https://ritwickmanatkar.github.io/blog/technical/">
     <div class="image-wrapper">
         <img src="assets/index/technical.png" alt="Image 2">
         <div class="caption">My Technical Side</div>
     </div>
+    </a>
     <div class="image-wrapper">
         <img src="assets/index/casual.JPG" alt="Image 1">
         <div class="caption">My Randomness</div>
