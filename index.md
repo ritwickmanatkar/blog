@@ -12,7 +12,7 @@
         .image-wrapper img {
             max-width: 75%;
             height: 400px;
-            width: 300px;
+            width: 350px;
         }
         .caption {
             margin-top: 10px;
