@@ -14,18 +14,21 @@
 
     <header>
       <div class="container">
-        <div style="width: 80%; float:left">
+        
+        <div style="width: 90%; float:left">
            <a id="a-title" href="{{ '/' | relative_url }}">
             <h1>{{ site.title | default: site.github.repository_name }}</h1>
           </a>
           <h2>{{ site.description | default: site.github.project_tagline }}</h2>
         </div>
         
-        <div style="width: 20%; float:right">
+        <div style="width: 10%; float:right">
+          <h1> <br> </h1>
            <section id="downloads">
             <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
           </section>
         </div>
+        
       </div>
     </header>
 
