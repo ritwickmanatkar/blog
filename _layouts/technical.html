@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+
+{% seo %}
+  </head>
+
+  <body>
+
+    <header>
+      <div class="container">
+
+        <div style="width: 80%; float:left">
+           <a id="a-title" href="{{ '/' | relative_url }}">
+            <h1>{{ "ritwick_manatkar/technical" | default: site.github.repository_name }}</h1>
+          </a>
+          <h2>{{ "Technical Stuff by Ritwick Manatkar." | default: site.github.project_tagline
+              }}</h2>
+        </div>
+
+        <div style="width: 20%; float:right">
+           <section id="downloads">
+            <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+          </section>
+        </div>
+
+        <h2> <br> </h2>
+        <h2> <br> </h2>
+
+      </div>
+    </header>
+
+    <div class="container">
+      <section id="main_content">
+        {{ content }}
+      </section>
+    </div>
+  </body>
+</html>
