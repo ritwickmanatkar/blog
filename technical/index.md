@@ -1,33 +1,29 @@
 <style>
-    .collapsible {
-        background-color: #f1f1f1;
-        color: #444;
+    .styled-section {
+        background-color: #3b3b3b;
+        padding: 20px;
+        border-radius: 5px;
+    }
+    h1, h3, p {
+        color: #fff;
+    }
+    details {
+        margin-top: 10px;
+    }
+    summary {
         cursor: pointer;
-        padding: 10px;
-        width: 100%;
-        border: none;
-        text-align: left;
-        outline: none;
-        font-size: 15px;
     }
-
-    .active, .collapsible:hover {
-        background-color: #ddd;
-    }
-
-    .collapsible-content {
-        padding: 0 15px;
-        display: none;
-        overflow: hidden;
-        background-color: white;
+    summary::marker {
+        color: #fff;
     }
 </style>
 <h1>
     Hello there...
 </h1>
 
-My name is <b>Ritwick Manatkar</b>.<br><br>
+My name is <b>Ritwick Manatkar</b>.<br>
 
+<div class="styled-section">
 <h3>TLDR</h3>
 <details >
 <summary>Past, Present & Future</summary>
@@ -63,5 +59,6 @@ forward to join up with passionate people driving ambitious projects and help su
 data teams.
 
 </details>
+</div>
 
 Here is a link: <a href="https://ritwickmanatkar.github.io/blog/technical/about/"> ABOUT </a>
