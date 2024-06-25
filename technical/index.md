@@ -1,9 +1,36 @@
+<style>
+    .collapsible {
+        background-color: #f1f1f1;
+        color: #444;
+        cursor: pointer;
+        padding: 10px;
+        width: 100%;
+        border: none;
+        text-align: left;
+        outline: none;
+        font-size: 15px;
+    }
+
+    .active, .collapsible:hover {
+        background-color: #ddd;
+    }
+
+    .collapsible-content {
+        padding: 0 15px;
+        display: none;
+        overflow: hidden;
+        background-color: white;
+    }
+</style>
 <h1>
     Hello there...
 </h1>
 
-My name is <b>Ritwick Manatkar</b>.<br><br>
-Here are some quick facts about me: <br>
+My name is <b>Ritwick Manatkar</b>.<br>
+<h3>TLDR</h3>
+<button type="button" class="collapsible">Past, Present & Future</button>
+<div class="collapsible-content">
+
 <b>Present</b>
 <ul>
     <li> Pursuing a Masters in <u>Data Science</u> at <a href="https://ucsd.edu/">UC San 
@@ -30,10 +57,24 @@ Machine Learning Intern and Mathematical Models Intern). </li>
 production planning.</li>
 </ul>
 
-<b>Future (Hopefully) </b><br>
+<b>Future (Hopefully) </b><br><br>
 I am excited about the rise of data and its widespread adoption by every industry. I am looking 
 forward to join up with passionate people driving ambitious projects and help supplement their 
 data teams.
 
+</div>
+
+<script>
+    var coll = document.getElementsByClassName("collapsible")[0];
+    coll.addEventListener("click", function() {
+        this.classList.toggle("active");
+        var content = this.nextElementSibling;
+        if (content.style.display === "block") {
+            content.style.display = "none";
+        } else {
+            content.style.display = "block";
+        }
+    });
+</script>
 
 Here is a link: <a href="https://ritwickmanatkar.github.io/blog/technical/about/"> ABOUT </a>
