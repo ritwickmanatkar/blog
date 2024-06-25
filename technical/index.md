@@ -6,12 +6,13 @@ My name is <b>Ritwick Manatkar</b>.<br><br>
 Here are some quick facts about me: <br>
 <b>Present</b>
 <ul>
-    <li> Pursuing a Masters in <u>Data Science</u> at <a href="https://ucsd.edu/">UC San Diego</a>.
+    <li> Pursuing a Masters in <u>Data Science</u> at <a href="https://ucsd.edu/">UC San 
+Diego</a>. </li>>
     <li> Working with <a href="https://datascience.ucsd.edu/people/seshashayee-sesh-murthy/">Dr. Seshashayee Murthy</a> on education focused <a href="https://blogs.
 nvidia.
-com/blog/what-is-retrieval-augmented-generation/">RAG</a> application called ASPIRE. 
+com/blog/what-is-retrieval-augmented-generation/">RAG</a> application called ASPIRE. </li>
     <li> I am currently working on <u>personalizing</u> the experience of a student with the ultimate 
-aim of improving learning  outcomes.
+aim of improving learning  outcomes. </li>
 </ul>
 
 <b>Past</b>
