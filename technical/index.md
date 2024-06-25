@@ -57,11 +57,13 @@ with the ultimate aim of improving learning  outcomes. </li>
     </details>
 </div>
 
-<h3>Once upon a time...</h3>
+<br>
+<h3>Let's dive deeper into this...</h3>
 <div class="styled-section">
     <a href="https://ritwickmanatkar.github.io/blog/technical/about/">
         <figure>
-            <img src="assets/technical/resume_transition.png" alt="Go to About" style="width:100%">
+            <img src="../assets/technical/resume_transition.png" alt="Go to About" 
+style="width:100%">
             <figcaption>We need a whole new page for this.</figcaption> 
         </figure>
     </a>
