@@ -23,12 +23,12 @@
 <div class="container">
     <a href="https://ritwickmanatkar.github.io/blog/technical/">
     <div class="image-wrapper">
-        <img src="assets/index/technical.png" alt="Image 2">
+        <img src="assets/index/technical.png" alt="Technical Side">
         <div class="caption">My Technical Side</div>
     </div>
     </a>
     <div class="image-wrapper">
-        <img src="assets/index/casual.JPG" alt="Image 1">
+        <img src="assets/index/casual.JPG" alt="Non-Technical Side">
         <div class="caption">My Randomness</div>
     </div>
 </div>
