@@ -26,9 +26,9 @@
     Hello there...
 </h1>
 
-My name is <b>Ritwick Manatkar</b>.<br>
+My name is <b>Ritwick Manatkar</b>.<br><br>
 
-<h4>TLDR</h4>
+<h3>TLDR</h3>
 <details >
 <summary>Past, Present & Future</summary>
 <b>Present</b>
