@@ -7,7 +7,7 @@ Here are some quick facts about me: <br>
 <b>Present</b>
 <ul>
     <li> Pursuing a Masters in <u>Data Science</u> at <a href="https://ucsd.edu/">UC San 
-Diego</a>. </li>>
+Diego</a>. </li>
     <li> Working with <a href="https://datascience.ucsd.edu/people/seshashayee-sesh-murthy/">Dr. Seshashayee Murthy</a> on education focused <a href="https://blogs.
 nvidia.
 com/blog/what-is-retrieval-augmented-generation/">RAG</a> application called ASPIRE. </li>
