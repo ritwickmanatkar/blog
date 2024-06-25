@@ -4,9 +4,6 @@
         padding: 20px;
         border-radius: 5px;
     }
-    h1, h3, p {
-        color: #fff;
-    }
     details {
         margin-top: 10px;
     }
