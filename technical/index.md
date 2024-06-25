@@ -27,10 +27,10 @@
 </h1>
 
 My name is <b>Ritwick Manatkar</b>.<br>
-<h3>TLDR</h3>
-<button type="button" class="collapsible">Past, Present & Future</button>
-<div class="collapsible-content">
 
+<h4>TLDR</h4>
+<details >
+<summary>Past, Present & Future</summary>
 <b>Present</b>
 <ul>
     <li> Pursuing a Masters in <u>Data Science</u> at <a href="https://ucsd.edu/">UC San 
@@ -62,19 +62,6 @@ I am excited about the rise of data and its widespread adoption by every industr
 forward to join up with passionate people driving ambitious projects and help supplement their 
 data teams.
 
-</div>
-
-<script>
-    var coll = document.getElementsByClassName("collapsible")[0];
-    coll.addEventListener("click", function() {
-        this.classList.toggle("active");
-        var content = this.nextElementSibling;
-        if (content.style.display === "block") {
-            content.style.display = "none";
-        } else {
-            content.style.display = "block";
-        }
-    });
-</script>
+</details>
 
 Here is a link: <a href="https://ritwickmanatkar.github.io/blog/technical/about/"> ABOUT </a>
