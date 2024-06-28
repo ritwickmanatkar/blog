@@ -22,13 +22,11 @@
 </h1>
 
 My name is <b>Ritwick Manatkar</b>. <br>
-Here is a little about me:<br>
 
-
-<h3>To make a long story short...</h3>
+<h3>Here is a little about me</h3>
 <div class="styled-section">
     <details>
-        <summary>Past, Present, & Future </summary>
+        <summary> Past, Present, & Future </summary>
         <br>
         <i>Here is the tldr version of my resume:</i>
         <br><br>
