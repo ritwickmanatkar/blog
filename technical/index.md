@@ -13,6 +13,9 @@
     summary::marker {
         color: #fff;
     }
+    .tabbed {
+        padding-left: 25px
+    }
 </style>
 <h1>
     Hello there...
@@ -25,16 +28,19 @@ Here is a little about me:<br>
 <h3>To make a long story short...</h3>
 <div class="styled-section">
     <details>
-        <summary>Past, Present & Future</summary>
+        <summary>Past, Present, & Future </summary>
         <br>
+        <i>Here is the tldr version of my resume:</i>
+        <br><br>
+        <div class="tabbed">
         <b>Present</b>
             <ul>
                 <li> Pursuing a Masters in <u>Data Science</u> at <a href="https://ucsd.edu/">UC San 
             Diego</a>. </li>
                 <li> Working with <a href="https://datascience.ucsd.edu/people/seshashayee-sesh-murthy/">Dr. Seshashayee Murthy</a> on education focused <a href="https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/">RAG</a> application called 
 ASPIRE. </li>
-                <li> I am currently working on <u>personalizing</u> the experience of a student 
-with the ultimate aim of improving learning  outcomes. </li>
+                <li> I am currently working on <u>personalizing</u> the coursework experience of a 
+student with the ultimate aim of improving learning  outcomes. </li>
             </ul>
         <b>Past</b>
             <ul>
@@ -54,12 +60,9 @@ with the ultimate aim of improving learning  outcomes. </li>
             I am excited about the rise of data and its widespread adoption by every industry. I am looking 
             forward to join up with passionate people driving ambitious projects and help supplement their 
             data teams.
-    </details>
-</div>
-
-<br>
-<h3>Let's dive deeper into this...</h3>
-<div class="styled-section">
+        </div>
+    <br><br>
+    <i>The detailed version is...</i>
     <a href="https://ritwickmanatkar.github.io/blog/technical/about/">
         <figure>
             <center>
@@ -68,4 +71,5 @@ with the ultimate aim of improving learning  outcomes. </li>
             <figcaption align="center">We need a whole new page for this.</figcaption> 
         </figure>
     </a>
+    </details>
 </div>
