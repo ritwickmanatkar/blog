@@ -17,11 +17,11 @@
     }
 
     .section:nth-child(odd) {
-        background-color: #f2f2f2;
+        background-color: #7393B3;
     }
 
     .section:nth-child(even) {
-        background-color: #e6e6e6;
+        background-color: #808080;
     }
 
     .tags {
