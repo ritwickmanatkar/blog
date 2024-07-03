@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
 <style>
     .back-button {
         display: block;
@@ -70,9 +71,8 @@
 <h1>
    About Me
 </h1>
-<div class="container">
 
-Hello! My name is Ritwick Manatkar.<br>
+Hello! My name is Ritwick Manatkar.<br><br>
 I am a Data Scientist with 3+ years of experience in developing end-to-end solutions in Analytics,
 Deep Learning, Machine Learning and Visualizations. Proficient in Python, SQL, and TensorFlow. 
 Seeking a challenging full-time role.<br><br>
@@ -83,6 +83,7 @@ Seeking a challenging full-time role.<br><br>
             <span> >>> <b>University of California San Diego</b></span>
             <span class="date-range">Sept. 2023 - (exp) Dec. 2024</span>
         </summary>
+        <hr>
         <p><i class="fas fa-map-marker-alt icon"></i> <u>Location</u>: San Diego, CA</p>
         <p><i class="fas fa-graduation-cap icon"></i> <u>GPA</u>: 3.92 / 4.0</p>
         <div class="tags">
@@ -125,5 +126,4 @@ Seeking a challenging full-time role.<br><br>
     <p>Python, SQL, TensorFlow, Data Visualization, Deep Learning</p>
 </div>
 
-</div>
 
