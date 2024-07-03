@@ -51,14 +51,16 @@
 
     details {
         margin-bottom: 10px;
-        padding-left: 20px;
     }
     
     summary {
         cursor: pointer;
         display: flex;
         justify-content: space-between;
-        padding-left: -20px;
+    }
+
+    .details-content {
+        padding-left: 10%;
     }
 
     .date-range {
@@ -85,19 +87,21 @@ Seeking a challenging full-time role.<br><br>
         <span class="date-range">Sept 2023 - Dec 2024(exp)</span>
     </summary>
     <hr>
-    <p><i class="fas fa-university icon"></i>  <u>Master of Science in Data Science</u></p>
-    <p><i class="fas fa-map-marker-alt icon"></i>  <u>Location</u>: San Diego, CA</p>
-    <p><i class="fas fa-graduation-cap icon"></i>  <u>GPA</u>: 3.92 / 4.00</p>
-    <div class="tags">
-        <div class="course">Probability & Statistics</div>
-        <div class="course">Data Management</div>
-        <div class="course">Numeric Linear Algebra</div>
-        <div class="course">Machine Learning</div>
-        <div class="course">Scalable Data Systems</div>
-        <div class="course">Statistical Models</div>
-        <div class="course">Causal Inference</div>
-        <div class="course">Fraud Analytics</div>
-        <div class="course">Trustworthy Machine Learning</div>
+    <div class="details-content">
+        <p><i class="fas fa-university icon"></i>  <u>Master of Science in Data Science</u></p>
+        <p><i class="fas fa-map-marker-alt icon"></i>  <u>Location</u>: San Diego, CA</p>
+        <p><i class="fas fa-graduation-cap icon"></i>  <u>GPA</u>: 3.92 / 4.00</p>
+        <div class="tags">
+            <div class="course">Probability & Statistics</div>
+            <div class="course">Data Management</div>
+            <div class="course">Numeric Linear Algebra</div>
+            <div class="course">Machine Learning</div>
+            <div class="course">Scalable Data Systems</div>
+            <div class="course">Statistical Models</div>
+            <div class="course">Causal Inference</div>
+            <div class="course">Fraud Analytics</div>
+            <div class="course">Trustworthy Machine Learning</div>
+        </div>
     </div>
     <hr>
 </details>
@@ -108,6 +112,7 @@ Seeking a challenging full-time role.<br><br>
             <span class="date-range">Jun 2016 - May 2020</span>
         </summary>
         <hr>
+        <div class="details-content">
         <p><i class="fas fa-university icon"></i>  <u>Bachelor of Engineering in Computer 
 Engineering</u></p>
         <p><i class="fas fa-map-marker-alt icon"></i> <u>Location</u>: Pune, India</p>
@@ -151,6 +156,7 @@ Engineering</u></p>
             <div class="course">Information and Cyber Security</div>
             <div class="course">Embedded and Real Time Operating Systems</div>
             <div class="course">Human Computer Interface</div>
+        </div>
         </div>
         <hr>
     </details>
