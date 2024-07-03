@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 <style>
     .back-button {
         display: block;
@@ -25,7 +26,7 @@
     }
 
     .section:nth-child(even) {
-        background-color: #808080;
+        background-color: #808085;
     }
 
     .tags {
@@ -52,9 +53,9 @@
     }
     
     summary {
+        cursor: pointer;
         display: flex;
         justify-content: space-between;
-        cursor: pointer;
     }
 
     .date-range {
@@ -74,15 +75,16 @@
 Hello! My name is Ritwick Manatkar.<br>
 I am a Data Scientist with 3+ years of experience in developing end-to-end solutions in Analytics,
 Deep Learning, Machine Learning and Visualizations. Proficient in Python, SQL, and TensorFlow. 
-Seeking a challenging full-time role.<br>
+Seeking a challenging full-time role.<br><br>
 <h3>Education</h3>
 <div class="section">
     <details>
         <summary>
-            <span><b>University of California San Diego</b></span>
+            <span> >>> <b>University of California San Diego</b></span>
             <span class="date-range">Sept. 2023 - (exp) Dec. 2024</span>
         </summary>
-        <p><u>GPA:</u> 3.92 / 4.0</p>
+        <p><i class="fas fa-map-marker-alt icon"></i> <u>Location</u>: San Diego, CA</p>
+        <p><i class="fas fa-graduation-cap icon"></i> <u>GPA</u>: 3.92 / 4.0</p>
         <div class="tags">
         <div class="course">Probability & Statistics</div>
         <div class="course">Data Management</div>
