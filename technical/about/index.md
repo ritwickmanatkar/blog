@@ -37,7 +37,7 @@
     }
 
     .course {
-        background-color: #333;
+        background-color: #332;
         color: #bada55;
         padding: 5px 10px;
         border-radius: 3px;
