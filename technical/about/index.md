@@ -51,12 +51,14 @@
 
     details {
         margin-bottom: 10px;
+        padding-left: 20px;
     }
     
     summary {
         cursor: pointer;
         display: flex;
         justify-content: space-between;
+        padding-left: -20px;
     }
 
     .date-range {
@@ -78,29 +80,29 @@ Deep Learning, Machine Learning and Visualizations. Proficient in Python, SQL, a
 Seeking a challenging full-time role.<br><br>
 <h3>Education</h3>
 <details>
-        <summary>
-            <span> >>> <b>University of California San Diego</b></span>
-            <span class="date-range">Sept 2023 - Dec 2024(exp)</span>
-        </summary>
-        <hr>
-        <p><i class="fas fa-university icon"></i>  <u>Master of Science in Data Science</u></p>
-        <p><i class="fas fa-map-marker-alt icon"></i>  <u>Location</u>: San Diego, CA</p>
-        <p><i class="fas fa-graduation-cap icon"></i>  <u>GPA</u>: 3.92 / 4.00</p>
-        <div class="tags">
-            <div class="course">Probability & Statistics</div>
-            <div class="course">Data Management</div>
-            <div class="course">Numeric Linear Algebra</div>
-            <div class="course">Machine Learning</div>
-            <div class="course">Scalable Data Systems</div>
-            <div class="course">Statistical Models</div>
-            <div class="course">Causal Inference</div>
-            <div class="course">Fraud Analytics</div>
-            <div class="course">Trustworthy Machine Learning</div>
-        </div>
-        <hr>
-    </details>
-    <br>
-    <details>
+    <summary>
+        <span> >>> <b>University of California San Diego</b></span>
+        <span class="date-range">Sept 2023 - Dec 2024(exp)</span>
+    </summary>
+    <hr>
+    <p><i class="fas fa-university icon"></i>  <u>Master of Science in Data Science</u></p>
+    <p><i class="fas fa-map-marker-alt icon"></i>  <u>Location</u>: San Diego, CA</p>
+    <p><i class="fas fa-graduation-cap icon"></i>  <u>GPA</u>: 3.92 / 4.00</p>
+    <div class="tags">
+        <div class="course">Probability & Statistics</div>
+        <div class="course">Data Management</div>
+        <div class="course">Numeric Linear Algebra</div>
+        <div class="course">Machine Learning</div>
+        <div class="course">Scalable Data Systems</div>
+        <div class="course">Statistical Models</div>
+        <div class="course">Causal Inference</div>
+        <div class="course">Fraud Analytics</div>
+        <div class="course">Trustworthy Machine Learning</div>
+    </div>
+    <hr>
+</details>
+<br>
+<details>
         <summary>
             <span> >>> <b>University of Pune</b></span>
             <span class="date-range">Jun 2016 - May 2020</span>
