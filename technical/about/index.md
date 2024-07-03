@@ -80,7 +80,7 @@ Hello! My name is Ritwick Manatkar.<br><br>
 I am a Data Scientist with 3+ years of experience in developing end-to-end solutions in Analytics,
 Deep Learning, Machine Learning and Visualizations. Proficient in Python, SQL, and TensorFlow. 
 Seeking a challenging full-time role.<br><br>
-<h3>Education</h3>
+<h2>Education</h2>
 <details>
     <summary>
         <span> >>> <b>University of California San Diego</b></span>
@@ -162,7 +162,7 @@ Engineering</u></p>
     </details>
 
 
-<h3>Experience</h3>
+<h2>Experience</h2>
 <div class="section">
     <p><strong>Company Name</strong>, Position, Year</p>
     <div class="tags">
@@ -173,17 +173,17 @@ Engineering</u></p>
     <p>Description of the job and responsibilities.</p>
 </div>
 
-<h3>Projects</h3>
+<h2>Projects</h2>
 <div class="section">
     <p>Details about various projects.</p>
 </div>
 
-<h3>Publications</h3>
+<h2>Publications</h2>
 <div class="section">
     <p>Details about various publications.</p>
 </div>
 
-<h3>Skills</h3>
+<h2>Skills</h2>
 <div class="section">
     <p>Python, SQL, TensorFlow, Data Visualization, Deep Learning</p>
 </div>
