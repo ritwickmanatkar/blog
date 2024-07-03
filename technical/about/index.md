@@ -10,7 +10,11 @@
         font-size: 12px;
         top: -30px
     }
-
+    
+    .container {
+        padding-top: 10px;
+    }
+    
     .section {
         padding: 20px;
         margin: 20px 0;
@@ -30,12 +34,32 @@
         gap: 5px;
     }
 
-    .tag {
+    .course {
         background-color: #333;
         color: #bada55;
         padding: 5px 10px;
         border-radius: 3px;
         font-size: 12px;
+    }
+
+    .tag {
+        background-color: #003319;
+        color: #bada55;
+        padding: 5px 10px;
+        border-radius: 15px;
+        font-size: 12px;
+        margin-right: 5px;
+    }
+    
+    summary {
+        display: flex;
+        justify-content: space-between;
+        cursor: pointer;
+    }
+
+    .date-range {
+        margin-left: auto;
+        font-style: italic;
     }
 </style>
 
@@ -45,16 +69,32 @@
 <h1>
    About Me
 </h1>
+<div class="container">
 
 Hello! My name is Ritwick Manatkar.<br>
 I am a Data Scientist with 3+ years of experience in developing end-to-end solutions in Analytics,
 Deep Learning, Machine Learning and Visualizations. Proficient in Python, SQL, and TensorFlow. 
 Seeking a challenging full-time role.<br>
-
 <h3>Education</h3>
 <div class="section">
-    <p><strong>University Name</strong>, Degree, Year</p>
-    <p><strong>Coursework:</strong> Data Structures, Algorithms, Machine Learning, Deep Learning, Database Systems</p>
+    <details>
+        <summary>
+            <span><b>University of California San Diego</b></span>
+            <span class="date-range">Sept. 2023 - (exp) Dec. 2024</span>
+        </summary>
+        <p><u>GPA:</u> 3.92 / 4.0</p>
+        <div class="tags">
+        <div class="course">Probability & Statistics</div>
+        <div class="course">Data Management</div>
+        <div class="course">Numeric Linear Algebra</div>
+        <div class="course">Machine Learning</div>
+        <div class="course">Scalable Data Systems</div>
+        <div class="course">Statistical Models</div>
+        <div class="course">Causal Inference</div>
+        <div class="course">Fraud Analytics</div>
+        <div class="course">Trustworthy Machine Learning</div>
+    </div>
+    </details>
 </div>
 
 <h3>Experience</h3>
@@ -81,5 +121,7 @@ Seeking a challenging full-time role.<br>
 <h3>Skills</h3>
 <div class="section">
     <p>Python, SQL, TensorFlow, Data Visualization, Deep Learning</p>
+</div>
+
 </div>
 
