@@ -13,10 +13,6 @@
         top: -30px
     }
     
-    .container {
-        padding-top: 10px;
-    }
-    
     .section {
         padding: 20px;
         margin: 20px 0;
@@ -27,7 +23,7 @@
     }
 
     .section:nth-child(even) {
-        background-color: #332;
+        background-color: #333;
     }
 
     .tags {
@@ -37,7 +33,7 @@
     }
 
     .course {
-        background-color: #332;
+        background-color: #708090;
         color: #bada55;
         padding: 5px 10px;
         border-radius: 3px;
@@ -81,8 +77,7 @@ I am a Data Scientist with 3+ years of experience in developing end-to-end solut
 Deep Learning, Machine Learning and Visualizations. Proficient in Python, SQL, and TensorFlow. 
 Seeking a challenging full-time role.<br><br>
 <h3>Education</h3>
-<div class="section">
-    <details>
+<details>
         <summary>
             <span> >>> <b>University of California San Diego</b></span>
             <span class="date-range">Sept 2023 - Dec 2024(exp)</span>
@@ -157,7 +152,7 @@ Engineering</u></p>
         </div>
         <hr>
     </details>
-</div>
+
 
 <h3>Experience</h3>
 <div class="section">
