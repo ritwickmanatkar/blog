@@ -106,6 +106,7 @@ Seeking a challenging full-time role.<br><br>
     </div>
     <hr>
 </details>
+<br>
 <details>
         <summary>
             <span> >>> <b>University of Pune</b></span>
@@ -163,151 +164,151 @@ Seeking a challenging full-time role.<br><br>
 
 
 <h2>Experience</h2>
-    <ol>
-        <div class="section">
-        <li>
-            <details>
-                <summary>
-                    <span><b>Data Scientist - <i>SMS digital GmbH</i></b></span>
-                    <span class="date-range">Jul 2020 - Aug 2023</span>
-                </summary>
-                <hr>
-                <div class="details-content">
-                    <p><i class="fas fa-map-marker-alt icon"></i>  <u>Location</u>: Dusseldorf, 
+<ol>
+    <div class="section">
+    <li>
+        <details>
+            <summary>
+                <span><b>Data Scientist - <i>SMS digital GmbH</i></b></span>
+                <span class="date-range">Jul 2020 - Aug 2023</span>
+            </summary>
+            <hr>
+            <div class="details-content">
+                <p><i class="fas fa-map-marker-alt icon"></i>  <u>Location</u>: Dusseldorf, 
 Germany</p>
-                    <ul>
-                        <li> Engineered and managed the Python-based <strong>AI training codebase</strong> for multi-million dollar Predictive Quality contracts
-                        <li> Developed and validated <strong>real-time multimodal ResNet based Deep Learning models</strong> using Tensorflow & NumPy in
+                <ul>
+                    <li> Engineered and managed the Python-based <strong>AI training codebase</strong> for multi-million dollar Predictive Quality contracts
+                    <li> Developed and validated <strong>real-time multimodal ResNet based Deep Learning models</strong> using Tensorflow & NumPy in
 Python, which processed high-frequency data from 200+ signals and production state variables to classify the state.
-                        <li> Spearheaded an <strong>explainable AI</strong> initiative utilizing a game theory-based idea to find the root causes of customer’s
+                    <li> Spearheaded an <strong>explainable AI</strong> initiative utilizing a game theory-based idea to find the root causes of customer’s
 issues, which was integrated into the company’s AI toolkit and continues to power at least 3 other projects.
-                        <li> Took charge of developing a <strong>data validation pipeline</strong> that improved data quality and workflow efficiency.
-                        <li> Prepared <strong>internal dashboards and numerous data visualization scripts</strong> for stakeholder presentations.
-                        <li> <strong>Mentored 3 interns</strong> in Machine Learning, Data 
+                    <li> Took charge of developing a <strong>data validation pipeline</strong> that improved data quality and workflow efficiency.
+                    <li> Prepared <strong>internal dashboards and numerous data visualization scripts</strong> for stakeholder presentations.
+                    <li> <strong>Mentored 3 interns</strong> in Machine Learning, Data 
 Visualization, 
 and Clean Coding & Architecture practices in Python.
-                    </ul>
-                    <br>
-                    <div class="tags">
-                        <div class="tag">Python</div>
-                        <div class="tag">Tensorflow</div>
-                        <div class="tag">Scikit-learn</div>
-                        <div class="tag">Matplotlib</div>
-                        <div class="tag">Tableau</div>
-                        <div class="tag">Seaborn</div>
-                        <div class="tag">MS SQL</div>
-                        <div class="tag">Github</div>
-                        <div class="tag">JIRA</div>
-                    </div>
+                </ul>
+                <br>
+                <div class="tags">
+                    <div class="tag">Python</div>
+                    <div class="tag">Tensorflow</div>
+                    <div class="tag">Scikit-learn</div>
+                    <div class="tag">Matplotlib</div>
+                    <div class="tag">Tableau</div>
+                    <div class="tag">Seaborn</div>
+                    <div class="tag">MS SQL</div>
+                    <div class="tag">Github</div>
+                    <div class="tag">JIRA</div>
                 </div>
-            </details>
-        </li>
-        </div>
-        <div class="section">
-        <li>
-            <details>
-                <summary>
-                    <span><b>Data Science Intern - <i>SMS digital GmbH</i></b></span>
-                    <span class="date-range">Dec 2019 - Jun 2020</span>
-                </summary>
-                <hr>
-                <div class="details-content">
-                    <p><i class="fas fa-map-marker-alt icon"></i>  <u>Location</u>: Dusseldorf, 
+            </div>
+        </details>
+    </li>
+    </div>
+    <div class="section">
+    <li>
+        <details>
+            <summary>
+                <span><b>Data Science Intern - <i>SMS digital GmbH</i></b></span>
+                <span class="date-range">Dec 2019 - Jun 2020</span>
+            </summary>
+            <hr>
+            <div class="details-content">
+                <p><i class="fas fa-map-marker-alt icon"></i>  <u>Location</u>: Dusseldorf, 
 Germany</p>
-                    <ul>
-                        <li> Created a machine learning service that <strong>forecasts</strong> 
+                <ul>
+                    <li> Created a machine learning service that <strong>forecasts</strong> 
 the future demand 
 for a customer’s product inventory using Statistical and Deep Learning techniques.
-                        <li> Presented <strong>proof-of-concept</strong> to a USA-based customer,
+                    <li> Presented <strong>proof-of-concept</strong> to a USA-based customer,
 resulting in a 
 sale and a <strong>full-time employment</strong> offer as a student.
-                        <li> Researched and implemented <strong>time series forecasting and 
+                    <li> Researched and implemented <strong>time series forecasting and 
 analysis</strong> 
 methods like ARIMA, RNN, LSTM, & FBProphet.
-                    </ul>
-                    <br>
-                    <div class="tags">
-                        <div class="tag">Python</div>
-                        <div class="tag">Tensorflow</div>
-                        <div class="tag">Scikit-learn</div>
-                        <div class="tag">Statsmodels</div>
-                        <div class="tag">FBProphet</div>
-                        <div class="tag">Matplotlib</div>
-                        <div class="tag">SQL</div>
-                        <div class="tag">Github</div>
-                        <div class="tag">JIRA</div>
-                    </div>
+                </ul>
+                <br>
+                <div class="tags">
+                    <div class="tag">Python</div>
+                    <div class="tag">Tensorflow</div>
+                    <div class="tag">Scikit-learn</div>
+                    <div class="tag">Statsmodels</div>
+                    <div class="tag">FBProphet</div>
+                    <div class="tag">Matplotlib</div>
+                    <div class="tag">SQL</div>
+                    <div class="tag">Github</div>
+                    <div class="tag">JIRA</div>
                 </div>
-            </details>
-        </li>
-        </div>
-        <div class="section">
-        <li>
-            <details>
-                <summary>
-                    <span><b>Machine Learning Intern - <i>SMS Group GmbH</i></b></span>
-                    <span class="date-range">Dec 2018 - Jan 2019</span>
-                </summary>
-                <hr>
-                <div class="details-content">
-                    <p><i class="fas fa-map-marker-alt icon"></i>  <u>Location</u>: Dusseldorf, 
+            </div>
+        </details>
+    </li>
+    </div>
+    <div class="section">
+    <li>
+        <details>
+            <summary>
+                <span><b>Machine Learning Intern - <i>SMS Group GmbH</i></b></span>
+                <span class="date-range">Dec 2018 - Jan 2019</span>
+            </summary>
+            <hr>
+            <div class="details-content">
+                <p><i class="fas fa-map-marker-alt icon"></i>  <u>Location</u>: Dusseldorf, 
 Germany</p>
-                    <ul>
-                        <li> Developed <strong>multivariate regression models</strong> using 
+                <ul>
+                    <li> Developed <strong>multivariate regression models</strong> using 
 Scikit-learn in 
 Python that could simulate the temperature conditions for faulty sensors inside the mold of a 
 continuous casting machine.
-                        <li> Achieved <strong>low error rates</strong> for the final models on 
+                    <li> Achieved <strong>low error rates</strong> for the final models on 
 extensive test 
 sets with sizes over 3 GB.
-                        <li> Integrated model as <strong>AI-based correction module</strong> 
+                    <li> Integrated model as <strong>AI-based correction module</strong> 
 into flagship 
 product, enhancing data-driven decision-making.
-                    </ul>
-                    <br>
-                    <div class="tags">
-                        <div class="tag">Python</div>
-                        <div class="tag">Scikit-learn</div>
-                        <div class="tag">Matplotlib</div>
-                        <div class="tag">GitLab</div>
-                        <div class="tag">JIRA</div>
-                    </div>
+                </ul>
+                <br>
+                <div class="tags">
+                    <div class="tag">Python</div>
+                    <div class="tag">Scikit-learn</div>
+                    <div class="tag">Matplotlib</div>
+                    <div class="tag">GitLab</div>
+                    <div class="tag">JIRA</div>
                 </div>
-            </details>
-        </li>
-        </div>
-        <div class="section">
-        <li>
-            <details>
-                <summary>
-                    <span><b>Mathematical Models Intern - <i>Ralali.com</i></b></span>
-                    <span class="date-range">May 2017 - Jun 2018</span>
-                </summary>
-                <hr>
-                <div class="details-content">
-                    <p><i class="fas fa-map-marker-alt icon"></i>  <u>Location</u>: Dusseldorf, 
+            </div>
+        </details>
+    </li>
+    </div>
+    <div class="section">
+    <li>
+        <details>
+            <summary>
+                <span><b>Mathematical Models Intern - <i>Ralali.com</i></b></span>
+                <span class="date-range">May 2017 - Jun 2018</span>
+            </summary>
+            <hr>
+            <div class="details-content">
+                <p><i class="fas fa-map-marker-alt icon"></i>  <u>Location</u>: Dusseldorf, 
 Germany</p>
-                    <ul>
-                        <li> Formulated a <strong>mathematical model</strong> addressing the 
+                <ul>
+                    <li> Formulated a <strong>mathematical model</strong> addressing the 
 constraints of the 
 vehicle route optimization problem.
-                        <li> Researched and developed a <strong>rudimentary algorithm in 
+                    <li> Researched and developed a <strong>rudimentary algorithm in 
 C++</strong> for the 
 presented Vehicle Routing Problem.
-                        <li> Generated <strong>detailed documentation</strong> outlining my 
+                    <li> Generated <strong>detailed documentation</strong> outlining my 
 workflow, findings, 
 and code for future use.
-                    </ul>
-                    <br>
-                    <div class="tags">
-                        <div class="tag">C++</div>
-                        <div class="tag">Microsoft Office</div>
-                    </div>
+                </ul>
+                <br>
+                <div class="tags">
+                    <div class="tag">C++</div>
+                    <div class="tag">Microsoft Office</div>
                 </div>
-            </details>
-        </li>
-        </div>
-    </ol>
+            </div>
+        </details>
+    </li>
+    </div>
+</ol>
 
 
 <h2>Projects</h2>
