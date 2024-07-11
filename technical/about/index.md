@@ -173,13 +173,14 @@ Seeking a challenging full-time role.<br><br>
                 <p><i class="fas fa-map-marker-alt icon"></i>  <u>Location</u>: Dusseldorf, 
 Germany</p>
                 <ul>
-                    <li> Engineered and managed the Python-based <strong>AI training codebase</strong> for multi-million dollar Predictive Quality contracts
+                    <li> Engineered and managed the Python-based <strong>AI training 
+codebase</strong> for multi-million dollar Predictive Quality contracts.</li>
                     <li> Developed and validated <strong>real-time multimodal ResNet based Deep Learning models</strong> using Tensorflow & NumPy in
-Python, which processed high-frequency data from 200+ signals and production state variables to classify the state.
+Python, which processed high-frequency data from 200+ signals and production state variables to classify the state.</li>
                     <li> Spearheaded an <strong>explainable AI</strong> initiative utilizing a game theory-based idea to find the root causes of customer’s
-issues, which was integrated into the company’s AI toolkit and continues to power at least 3 other projects.
-                    <li> Took charge of developing a <strong>data validation pipeline</strong> that improved data quality and workflow efficiency.
-                    <li> Prepared <strong>internal dashboards and numerous data visualization scripts</strong> for stakeholder presentations.
+issues, which was integrated into the company’s AI toolkit and continues to power at least 3 other projects.</li>
+                    <li> Took charge of developing a <strong>data validation pipeline</strong> that improved data quality and workflow efficiency.</li>
+                    <li> Prepared <strong>internal dashboards and numerous data visualization scripts</strong> for stakeholder presentations.</li>
                     <li> <strong>Mentored 3 interns</strong> in Machine Learning, Data 
 Visualization, and Clean Coding & Architecture practices in Python.</li>
                 </ul>
