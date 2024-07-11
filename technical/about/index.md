@@ -170,7 +170,7 @@ Seeking a challenging full-time role.<br><br>
                 <span class="date-range">Jul 2020 - Aug 2023</span>
             </summary>
             <hr>
-                <p><i class="fas fa-map-marker-alt icon"></i>  <u>Location</u>: Dusseldorf, 
+                <p><i class="fas fa-map-marker-alt icon"></i> : Dusseldorf, 
 Germany</p>
                 <ul>
                     <li> Engineered and managed the Python-based <strong>AI training 
@@ -189,6 +189,10 @@ Visualization, and Clean Coding & Architecture practices in Python.</li>
             <div class="tag">Python</div>
             <div class="tag">Tensorflow</div>
             <div class="tag">Scikit-learn</div>
+            <div class="tag">AWS S3</div>
+            <div class="tag">AWS EC2</div>
+            <div class="tag">Kubeflow</div>
+            <div class="tag">MLflow</div>
             <div class="tag">Matplotlib</div>
             <div class="tag">Tableau</div>
             <div class="tag">Seaborn</div>
@@ -198,103 +202,83 @@ Visualization, and Clean Coding & Architecture practices in Python.</li>
     </div>
     </li>
     <li><div class="section">
-        <details>
             <summary>
                 <span><b>Data Science Intern - <i>SMS digital GmbH</i></b></span>
                 <span class="date-range">Dec 2019 - Jun 2020</span>
             </summary>
             <hr>
-            <div class="details-content">
-                <p><i class="fas fa-map-marker-alt icon"></i>  <u>Location</u>: Dusseldorf, 
-Germany</p>
+                <p><i class="fas fa-map-marker-alt icon"></i>  : Dusseldorf, Germany</p>
                 <ul>
                     <li> Created a machine learning service that <strong>forecasts</strong> 
 the future demand 
-for a customer’s product inventory using Statistical and Deep Learning techniques.
+for a customer’s product inventory using Statistical and Deep Learning techniques. </li>
                     <li> Presented <strong>proof-of-concept</strong> to a USA-based customer,
 resulting in a 
-sale and a <strong>full-time employment</strong> offer as a student.
+sale and a <strong>full-time employment</strong> offer as a student. </li>
                     <li> Researched and implemented <strong>time series forecasting and 
 analysis</strong> 
-methods like ARIMA, RNN, LSTM, & FBProphet.
+methods like ARIMA, RNN, LSTM, & FBProphet. </li>
                 </ul>
-                <br>
-                <div class="tags">
-                    <div class="tag">Python</div>
-                    <div class="tag">Tensorflow</div>
-                    <div class="tag">Scikit-learn</div>
-                    <div class="tag">Statsmodels</div>
-                    <div class="tag">FBProphet</div>
-                    <div class="tag">Matplotlib</div>
-                    <div class="tag">SQL</div>
-                    <div class="tag">Github</div>
-                    <div class="tag">JIRA</div>
-                </div>
-            </div>
-        </details>
-    </div></li>
+        </div>
+    <div class="tags">
+        <div class="tag">Python</div>
+        <div class="tag">Tensorflow</div>
+        <div class="tag">Scikit-learn</div>
+        <div class="tag">Statsmodels</div>
+        <div class="tag">FBProphet</div>
+        <div class="tag">Matplotlib</div>
+        <div class="tag">SQL</div>
+        <div class="tag">Github</div>
+        <div class="tag">JIRA</div>
+    </div>
+    </li>
     <li><div class="section">
-        <details>
             <summary>
                 <span><b>Machine Learning Intern - <i>SMS Group GmbH</i></b></span>
                 <span class="date-range">Dec 2018 - Jan 2019</span>
             </summary>
             <hr>
-            <div class="details-content">
-                <p><i class="fas fa-map-marker-alt icon"></i>  <u>Location</u>: Dusseldorf, 
-Germany</p>
-                <ul>
-                    <li> Developed <strong>multivariate regression models</strong> using 
-Scikit-learn in 
-Python that could simulate the temperature conditions for faulty sensors inside the mold of a 
-continuous casting machine.
-                    <li> Achieved <strong>low error rates</strong> for the final models on 
-extensive test 
-sets with sizes over 3 GB.
-                    <li> Integrated model as <strong>AI-based correction module</strong> 
-into flagship 
-product, enhancing data-driven decision-making.
-                </ul>
-                <br>
-                <div class="tags">
-                    <div class="tag">Python</div>
-                    <div class="tag">Scikit-learn</div>
-                    <div class="tag">Matplotlib</div>
-                    <div class="tag">GitLab</div>
-                    <div class="tag">JIRA</div>
-                </div>
-            </div>
-        </details>
-    </div></li>
+                <p><i class="fas fa-map-marker-alt icon"></i>  : Dusseldorf, Germany</p>
+            <ul>
+                <li> Developed <strong>multivariate regression models</strong> using 
+Scikit-learn in Python that could simulate the temperature conditions for faulty sensors inside 
+the mold of a continuous casting machine.</li>
+                <li> Achieved <strong>low error rates</strong> for the final models on 
+extensive test sets with sizes over 3 GB.</li>
+                <li> Integrated model as <strong>AI-based correction module</strong> 
+into flagship product, enhancing data-driven decision-making.</li>
+            </ul>
+    </div>
+    <div class="tags">
+        <div class="tag">Python</div>
+        <div class="tag">Scikit-learn</div>
+        <div class="tag">Matplotlib</div>
+        <div class="tag">GitLab</div>
+        <div class="tag">JIRA</div>
+    </div>
+    </li>
     <li><div class="section">
-        <details>
             <summary>
                 <span><b>Mathematical Models Intern - <i>Ralali.com</i></b></span>
                 <span class="date-range">May 2017 - Jun 2018</span>
             </summary>
             <hr>
-            <div class="details-content">
-                <p><i class="fas fa-map-marker-alt icon"></i>  <u>Location</u>: Jakarta, 
+                <p><i class="fas fa-map-marker-alt icon"></i> : Jakarta, 
 Indonesia</p>
                 <ul>
                     <li> Formulated a <strong>mathematical model</strong> addressing the 
-constraints of the 
-vehicle route optimization problem.
+constraints of the vehicle route optimization problem.</li>
                     <li> Researched and developed a <strong>rudimentary algorithm in 
-C++</strong> for the 
-presented Vehicle Routing Problem.
+C++</strong> for the presented Vehicle Routing Problem.</li>
                     <li> Generated <strong>detailed documentation</strong> outlining my 
-workflow, findings, 
-and code for future use.
-                </ul>
-                <br>
-                <div class="tags">
-                    <div class="tag">C++</div>
-                    <div class="tag">Microsoft Office</div>
-                </div>
-            </div>
-        </details>
-    </div></li>
+workflow, findings, and code for future use.</li>e
+    </ul>
+    </div>
+    <div class="tags">
+        <div class="tag">C++</div>
+        <div class="tag">Microsoft Office</div>
+    </div>
+    </li>
 </ol>
 
 
