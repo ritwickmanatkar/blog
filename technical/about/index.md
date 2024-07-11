@@ -184,18 +184,17 @@ issues, which was integrated into the company’s AI toolkit and continues to po
 Visualization, 
 and Clean Coding & Architecture practices in Python.
                 </ul>
-        <hr>
-        <div class="tags">
-                <div class="tag">Python</div>
-                <div class="tag">Tensorflow</div>
-                <div class="tag">Scikit-learn</div>
-                <div class="tag">Matplotlib</div>
-                <div class="tag">Tableau</div>
-                <div class="tag">Seaborn</div>
-                <div class="tag">MS SQL</div>
-                <div class="tag">Github</div>
-                <div class="tag">JIRA</div>
-        </div>
+    </div>
+    <div class="tags">
+            <div class="tag">Python</div>
+            <div class="tag">Tensorflow</div>
+            <div class="tag">Scikit-learn</div>
+            <div class="tag">Matplotlib</div>
+            <div class="tag">Tableau</div>
+            <div class="tag">Seaborn</div>
+            <div class="tag">MS SQL</div>
+            <div class="tag">Github</div>
+            <div class="tag">JIRA</div>
     </div>
     </li>
     <li><div class="section">
