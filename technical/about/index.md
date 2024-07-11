@@ -164,8 +164,7 @@ Seeking a challenging full-time role.<br><br>
 <br>
 <h2>Experience</h2>
 <ol>
-    <li>
-    <div class="section">
+    <li><div class="section">
         <details>
             <summary>
                 <span><b>Data Scientist - <i>SMS digital GmbH</i></b></span>
@@ -201,10 +200,8 @@ and Clean Coding & Architecture practices in Python.
                 </div>
             </div>
         </details>
-    </div>
-    </li>
-    <li>
-    <div class="section">
+    </div></li>
+    <li><div class="section">
         <details>
             <summary>
                 <span><b>Data Science Intern - <i>SMS digital GmbH</i></b></span>
@@ -239,10 +236,8 @@ methods like ARIMA, RNN, LSTM, & FBProphet.
                 </div>
             </div>
         </details>
-    </div>
-    </li>
-    <li>
-    <div class="section">
+    </div></li>
+    <li><div class="section">
         <details>
             <summary>
                 <span><b>Machine Learning Intern - <i>SMS Group GmbH</i></b></span>
@@ -274,10 +269,8 @@ product, enhancing data-driven decision-making.
                 </div>
             </div>
         </details>
-    </div>
-    </li>
-    <li>
-    <div class="section">
+    </div></li>
+    <li><div class="section">
         <details>
             <summary>
                 <span><b>Mathematical Models Intern - <i>Ralali.com</i></b></span>
@@ -285,8 +278,8 @@ product, enhancing data-driven decision-making.
             </summary>
             <hr>
             <div class="details-content">
-                <p><i class="fas fa-map-marker-alt icon"></i>  <u>Location</u>: Dusseldorf, 
-Germany</p>
+                <p><i class="fas fa-map-marker-alt icon"></i>  <u>Location</u>: Jakarta, 
+Indonesia</p>
                 <ul>
                     <li> Formulated a <strong>mathematical model</strong> addressing the 
 constraints of the 
@@ -305,8 +298,7 @@ and code for future use.
                 </div>
             </div>
         </details>
-    </div>
-    </li>
+    </div></li>
 </ol>
 
 
