@@ -170,7 +170,6 @@ Seeking a challenging full-time role.<br><br>
                 <span class="date-range">Jul 2020 - Aug 2023</span>
             </summary>
             <hr>
-            <div class="details-content">
                 <p><i class="fas fa-map-marker-alt icon"></i>  <u>Location</u>: Dusseldorf, 
 Germany</p>
                 <ul>
@@ -185,7 +184,6 @@ issues, which was integrated into the company’s AI toolkit and continues to po
 Visualization, 
 and Clean Coding & Architecture practices in Python.
                 </ul>
-            </div>
         <hr>
         <div class="tags">
                 <div class="tag">Python</div>
