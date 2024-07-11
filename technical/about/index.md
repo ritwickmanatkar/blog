@@ -186,8 +186,9 @@ issues, which was integrated into the company’s AI toolkit and continues to po
 Visualization, 
 and Clean Coding & Architecture practices in Python.
                 </ul>
-                <br>
-                <div class="tags">
+            </div>
+        <hr>
+        <div class="tags">
                     <div class="tag">Python</div>
                     <div class="tag">Tensorflow</div>
                     <div class="tag">Scikit-learn</div>
@@ -198,9 +199,9 @@ and Clean Coding & Architecture practices in Python.
                     <div class="tag">Github</div>
                     <div class="tag">JIRA</div>
                 </div>
-            </div>
         </details>
-    </div></li>
+    </div>
+    </li>
     <li><div class="section">
         <details>
             <summary>
