@@ -165,7 +165,6 @@ Seeking a challenging full-time role.<br><br>
 <h2>Experience</h2>
 <ol>
     <li><div class="section">
-        <details>
             <summary>
                 <span><b>Data Scientist - <i>SMS digital GmbH</i></b></span>
                 <span class="date-range">Jul 2020 - Aug 2023</span>
@@ -189,17 +188,16 @@ and Clean Coding & Architecture practices in Python.
             </div>
         <hr>
         <div class="tags">
-                    <div class="tag">Python</div>
-                    <div class="tag">Tensorflow</div>
-                    <div class="tag">Scikit-learn</div>
-                    <div class="tag">Matplotlib</div>
-                    <div class="tag">Tableau</div>
-                    <div class="tag">Seaborn</div>
-                    <div class="tag">MS SQL</div>
-                    <div class="tag">Github</div>
-                    <div class="tag">JIRA</div>
-                </div>
-        </details>
+                <div class="tag">Python</div>
+                <div class="tag">Tensorflow</div>
+                <div class="tag">Scikit-learn</div>
+                <div class="tag">Matplotlib</div>
+                <div class="tag">Tableau</div>
+                <div class="tag">Seaborn</div>
+                <div class="tag">MS SQL</div>
+                <div class="tag">Github</div>
+                <div class="tag">JIRA</div>
+        </div>
     </div>
     </li>
     <li><div class="section">
