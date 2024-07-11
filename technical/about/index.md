@@ -161,12 +161,11 @@ Seeking a challenging full-time role.<br><br>
         </div>
         <hr>
     </details>
-
-
+<br>
 <h2>Experience</h2>
 <ol>
-    <div class="section">
     <li>
+    <div class="section">
         <details>
             <summary>
                 <span><b>Data Scientist - <i>SMS digital GmbH</i></b></span>
@@ -202,10 +201,10 @@ and Clean Coding & Architecture practices in Python.
                 </div>
             </div>
         </details>
-    </li>
     </div>
-    <div class="section">
+    </li>
     <li>
+    <div class="section">
         <details>
             <summary>
                 <span><b>Data Science Intern - <i>SMS digital GmbH</i></b></span>
@@ -240,10 +239,10 @@ methods like ARIMA, RNN, LSTM, & FBProphet.
                 </div>
             </div>
         </details>
-    </li>
     </div>
-    <div class="section">
+    </li>
     <li>
+    <div class="section">
         <details>
             <summary>
                 <span><b>Machine Learning Intern - <i>SMS Group GmbH</i></b></span>
@@ -275,10 +274,10 @@ product, enhancing data-driven decision-making.
                 </div>
             </div>
         </details>
-    </li>
     </div>
-    <div class="section">
+    </li>
     <li>
+    <div class="section">
         <details>
             <summary>
                 <span><b>Mathematical Models Intern - <i>Ralali.com</i></b></span>
@@ -306,8 +305,8 @@ and code for future use.
                 </div>
             </div>
         </details>
-    </li>
     </div>
+    </li>
 </ol>
 
 
