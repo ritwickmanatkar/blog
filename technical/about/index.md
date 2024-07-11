@@ -67,6 +67,9 @@
         margin-left: auto;
         font-style: italic;
     }
+    li {
+  margin: 2px 0;
+}
 </style>
 
 <a href="https://ritwickmanatkar.github.io/blog/technical/" class="back-button"> << Back to 
@@ -271,7 +274,7 @@ constraints of the vehicle route optimization problem.</li>
                     <li> Researched and developed a <strong>rudimentary algorithm in 
 C++</strong> for the presented Vehicle Routing Problem.</li>
                     <li> Generated <strong>detailed documentation</strong> outlining my 
-workflow, findings, and code for future use.</li>e
+workflow, findings, and code for future use.</li>
     </ul>
     </div>
     <div class="tags">
