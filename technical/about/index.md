@@ -181,8 +181,7 @@ issues, which was integrated into the company’s AI toolkit and continues to po
                     <li> Took charge of developing a <strong>data validation pipeline</strong> that improved data quality and workflow efficiency.
                     <li> Prepared <strong>internal dashboards and numerous data visualization scripts</strong> for stakeholder presentations.
                     <li> <strong>Mentored 3 interns</strong> in Machine Learning, Data 
-Visualization, 
-and Clean Coding & Architecture practices in Python.
+Visualization, and Clean Coding & Architecture practices in Python.</li>
                 </ul>
     </div>
     <div class="tags">
