@@ -68,7 +68,7 @@
         font-style: italic;
     }
     li {
-  margin: 2px 0;
+  margin: 6px 0;
 }
 </style>
 
