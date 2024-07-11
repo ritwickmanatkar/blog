@@ -50,7 +50,7 @@
     }
 
     details {
-        margin-bottom: 10px;
+        margin-bottom: 5px;
     }
     
     summary {
@@ -60,7 +60,7 @@
     }
 
     .details-content {
-        padding-left: 10%;
+        padding-left: 25px;
     }
 
     .date-range {
@@ -80,6 +80,7 @@ Hello! My name is Ritwick Manatkar.<br><br>
 I am a Data Scientist with 3+ years of experience in developing end-to-end solutions in Analytics,
 Deep Learning, Machine Learning and Visualizations. Proficient in Python, SQL, and TensorFlow. 
 Seeking a challenging full-time role.<br><br>
+
 <h2>Education</h2>
 <details>
     <summary>
@@ -105,7 +106,6 @@ Seeking a challenging full-time role.<br><br>
     </div>
     <hr>
 </details>
-<br>
 <details>
         <summary>
             <span> >>> <b>University of Pune</b></span>
@@ -113,65 +113,202 @@ Seeking a challenging full-time role.<br><br>
         </summary>
         <hr>
         <div class="details-content">
-        <p><i class="fas fa-university icon"></i>  <u>Bachelor of Engineering in Computer 
-Engineering</u></p>
-        <p><i class="fas fa-map-marker-alt icon"></i> <u>Location</u>: Pune, India</p>
-        <p><i class="fas fa-graduation-cap icon"></i> <u>GPA</u>: 3.96 / 4.00</p>
-        <div class="tags">
-            <div class="course">Engineering Mathematics I</div>
-            <div class="course">Fundamentals of Programming Language I</div>
-            <div class="course">Basic Electronics Engineering</div>
-            <div class="course">Engineering Graphics I</div>
-            <div class="course">Engineering Mathematics II</div>
-            <div class="course">Fundamentals of Programming Language II</div>
-            <div class="course">Basic Electronics Engineering</div>
-            <div class="course">Basic Mechanical Engineering</div>
-            <div class="course">Engineering Graphics II</div>
-            <div class="course">Discrete Mathematics</div>
-            <div class="course">Digital Electronic and Logic Design</div>
-            <div class="course">Data Structures and Algorithms</div>
-            <div class="course">Computer Organization and Architecture</div>
-            <div class="course">Object Oriented Programming</div>
-            <div class="course">Engineering Mathematics III</div>
-            <div class="course">Computer Graphics</div>
-            <div class="course">Advanced Data Structures</div>
-            <div class="course">Microprocessor</div>
-            <div class="course">Principles of Programming Languages</div>
-            <div class="course">Theory of Computation</div>
-            <div class="course">Database Management Systems</div>
-            <div class="course">Software Engineering and Project Management</div>
-            <div class="course">Information System and Engineering Economics</div>
-            <div class="course">Computer Networks</div>
-            <div class="course">Design and Analysis of Algorithms</div>
-            <div class="course">Systems Programming and Operating Systems</div>
-            <div class="course">Embedded System and Internet of Things</div>
-            <div class="course">Software Modeling and Design</div>
-            <div class="course">Web Technology</div>
-            <div class="course">High Performance Computing</div>
-            <div class="course">Artificial Intelligence and Robotics</div>
-            <div class="course">Data Analytics</div>
-            <div class="course">Data Mining and Warehousing</div>
-            <div class="course">Operation Research</div>
-            <div class="course">Machine Learning</div>
-            <div class="course">Information and Cyber Security</div>
-            <div class="course">Embedded and Real Time Operating Systems</div>
-            <div class="course">Human Computer Interface</div>
-        </div>
+            <p><i class="fas fa-university icon"></i>  <u>Bachelor of Engineering in Computer 
+    Engineering</u></p>
+            <p><i class="fas fa-map-marker-alt icon"></i> <u>Location</u>: Pune, India</p>
+            <p><i class="fas fa-graduation-cap icon"></i> <u>GPA</u>: 3.96 / 4.00</p>
+            <div class="tags">
+                <div class="course">Engineering Mathematics I</div>
+                <div class="course">Fundamentals of Programming Language I</div>
+                <div class="course">Basic Electronics Engineering</div>
+                <div class="course">Engineering Graphics I</div>
+                <div class="course">Engineering Mathematics II</div>
+                <div class="course">Fundamentals of Programming Language II</div>
+                <div class="course">Basic Electronics Engineering</div>
+                <div class="course">Basic Mechanical Engineering</div>
+                <div class="course">Engineering Graphics II</div>
+                <div class="course">Discrete Mathematics</div>
+                <div class="course">Digital Electronic and Logic Design</div>
+                <div class="course">Data Structures and Algorithms</div>
+                <div class="course">Computer Organization and Architecture</div>
+                <div class="course">Object Oriented Programming</div>
+                <div class="course">Engineering Mathematics III</div>
+                <div class="course">Computer Graphics</div>
+                <div class="course">Advanced Data Structures</div>
+                <div class="course">Microprocessor</div>
+                <div class="course">Principles of Programming Languages</div>
+                <div class="course">Theory of Computation</div>
+                <div class="course">Database Management Systems</div>
+                <div class="course">Software Engineering and Project Management</div>
+                <div class="course">Information System and Engineering Economics</div>
+                <div class="course">Computer Networks</div>
+                <div class="course">Design and Analysis of Algorithms</div>
+                <div class="course">Systems Programming and Operating Systems</div>
+                <div class="course">Embedded System and Internet of Things</div>
+                <div class="course">Software Modeling and Design</div>
+                <div class="course">Web Technology</div>
+                <div class="course">High Performance Computing</div>
+                <div class="course">Artificial Intelligence and Robotics</div>
+                <div class="course">Data Analytics</div>
+                <div class="course">Data Mining and Warehousing</div>
+                <div class="course">Operation Research</div>
+                <div class="course">Machine Learning</div>
+                <div class="course">Information and Cyber Security</div>
+                <div class="course">Embedded and Real Time Operating Systems</div>
+                <div class="course">Human Computer Interface</div>
+            </div>
         </div>
         <hr>
     </details>
 
 
 <h2>Experience</h2>
-<div class="section">
-    <p><strong>Company Name</strong>, Position, Year</p>
-    <div class="tags">
-        <div class="tag">Data Science</div>
-        <div class="tag">Machine Learning</div>
-        <div class="tag">Python</div>
-    </div>
-    <p>Description of the job and responsibilities.</p>
-</div>
+    <ol>
+        <div class="section">
+        <li>
+            <details>
+                <summary>
+                    <span><b>Data Scientist - <i>SMS digital GmbH</i></b></span>
+                    <span class="date-range">Jul 2020 - Aug 2023</span>
+                </summary>
+                <hr>
+                <div class="details-content">
+                    <p><i class="fas fa-map-marker-alt icon"></i>  <u>Location</u>: Dusseldorf, 
+Germany</p>
+                    <ul>
+                        <li> Engineered and managed the Python-based <strong>AI training codebase</strong> for multi-million dollar Predictive Quality contracts
+                        <li> Developed and validated <strong>real-time multimodal ResNet based Deep Learning models</strong> using Tensorflow & NumPy in
+Python, which processed high-frequency data from 200+ signals and production state variables to classify the state.
+                        <li> Spearheaded an <strong>explainable AI</strong> initiative utilizing a game theory-based idea to find the root causes of customer’s
+issues, which was integrated into the company’s AI toolkit and continues to power at least 3 other projects.
+                        <li> Took charge of developing a <strong>data validation pipeline</strong> that improved data quality and workflow efficiency.
+                        <li> Prepared <strong>internal dashboards and numerous data visualization scripts</strong> for stakeholder presentations.
+                        <li> <strong>Mentored 3 interns</strong> in Machine Learning, Data 
+Visualization, 
+and Clean Coding & Architecture practices in Python.
+                    </ul>
+                    <br>
+                    <div class="tags">
+                        <div class="tag">Python</div>
+                        <div class="tag">Tensorflow</div>
+                        <div class="tag">Scikit-learn</div>
+                        <div class="tag">Matplotlib</div>
+                        <div class="tag">Tableau</div>
+                        <div class="tag">Seaborn</div>
+                        <div class="tag">MS SQL</div>
+                        <div class="tag">Github</div>
+                        <div class="tag">JIRA</div>
+                    </div>
+                </div>
+            </details>
+        </li>
+        </div>
+        <div class="section">
+        <li>
+            <details>
+                <summary>
+                    <span><b>Data Science Intern - <i>SMS digital GmbH</i></b></span>
+                    <span class="date-range">Dec 2019 - Jun 2020</span>
+                </summary>
+                <hr>
+                <div class="details-content">
+                    <p><i class="fas fa-map-marker-alt icon"></i>  <u>Location</u>: Dusseldorf, 
+Germany</p>
+                    <ul>
+                        <li> Created a machine learning service that <strong>forecasts</strong> 
+the future demand 
+for a customer’s product inventory using Statistical and Deep Learning techniques.
+                        <li> Presented <strong>proof-of-concept</strong> to a USA-based customer,
+resulting in a 
+sale and a <strong>full-time employment</strong> offer as a student.
+                        <li> Researched and implemented <strong>time series forecasting and 
+analysis</strong> 
+methods like ARIMA, RNN, LSTM, & FBProphet.
+                    </ul>
+                    <br>
+                    <div class="tags">
+                        <div class="tag">Python</div>
+                        <div class="tag">Tensorflow</div>
+                        <div class="tag">Scikit-learn</div>
+                        <div class="tag">Statsmodels</div>
+                        <div class="tag">FBProphet</div>
+                        <div class="tag">Matplotlib</div>
+                        <div class="tag">SQL</div>
+                        <div class="tag">Github</div>
+                        <div class="tag">JIRA</div>
+                    </div>
+                </div>
+            </details>
+        </li>
+        </div>
+        <div class="section">
+        <li>
+            <details>
+                <summary>
+                    <span><b>Machine Learning Intern - <i>SMS Group GmbH</i></b></span>
+                    <span class="date-range">Dec 2018 - Jan 2019</span>
+                </summary>
+                <hr>
+                <div class="details-content">
+                    <p><i class="fas fa-map-marker-alt icon"></i>  <u>Location</u>: Dusseldorf, 
+Germany</p>
+                    <ul>
+                        <li> Developed <strong>multivariate regression models</strong> using 
+Scikit-learn in 
+Python that could simulate the temperature conditions for faulty sensors inside the mold of a 
+continuous casting machine.
+                        <li> Achieved <strong>low error rates</strong> for the final models on 
+extensive test 
+sets with sizes over 3 GB.
+                        <li> Integrated model as <strong>AI-based correction module</strong> 
+into flagship 
+product, enhancing data-driven decision-making.
+                    </ul>
+                    <br>
+                    <div class="tags">
+                        <div class="tag">Python</div>
+                        <div class="tag">Scikit-learn</div>
+                        <div class="tag">Matplotlib</div>
+                        <div class="tag">GitLab</div>
+                        <div class="tag">JIRA</div>
+                    </div>
+                </div>
+            </details>
+        </li>
+        </div>
+        <div class="section">
+        <li>
+            <details>
+                <summary>
+                    <span><b>Mathematical Models Intern - <i>Ralali.com</i></b></span>
+                    <span class="date-range">May 2017 - Jun 2018</span>
+                </summary>
+                <hr>
+                <div class="details-content">
+                    <p><i class="fas fa-map-marker-alt icon"></i>  <u>Location</u>: Dusseldorf, 
+Germany</p>
+                    <ul>
+                        <li> Formulated a <strong>mathematical model</strong> addressing the 
+constraints of the 
+vehicle route optimization problem.
+                        <li> Researched and developed a <strong>rudimentary algorithm in 
+C++</strong> for the 
+presented Vehicle Routing Problem.
+                        <li> Generated <strong>detailed documentation</strong> outlining my 
+workflow, findings, 
+and code for future use.
+                    </ul>
+                    <br>
+                    <div class="tags">
+                        <div class="tag">C++</div>
+                        <div class="tag">Microsoft Office</div>
+                    </div>
+                </div>
+            </details>
+        </li>
+        </div>
+    </ol>
+
 
 <h2>Projects</h2>
 <div class="section">
